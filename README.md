@@ -11,4 +11,6 @@ Also its maybe worth mentioning I am an IT Student at ASU, I dont not currently 
 
 If you stumble on this and can give advice thanks in advance!
 
+I will be uploading the accdb file periodically when significant changes happen.
+
 Andrew
